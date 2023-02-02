@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scottikus
 - 👀 I’m interested in programming and code!
-- 🌱 I’m currently learning FHIR, Python, C#, Kotlin, Java, typescript, APIs in general...
+- 🌱 I’m currently learning Python, C#, Kotlin, Java, typescript, APIs in general...
 - 💞️ I’m looking to collaborate on anything I can handle.
 - 📫 How to reach me scotty.mcm93@gmail.com
 
